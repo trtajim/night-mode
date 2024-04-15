@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="shape">#1E293B</color>
+    <color name="background">#000113</color>
+    <color name="logo">#FFFFFF</color>
+    <color name="whitee">#FFFFFF</color>
+    <color name="button">#334155</color>
+    <color name="shade">#000113</color>
+
+
+</resources>
